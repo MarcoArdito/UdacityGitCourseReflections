@@ -14,4 +14,8 @@ Describe the differences between forks, clones, and branches. When would you use
 -- clone => a clone from github or local to local (creating a local version from a remote repository)
 -- branches => one history line in development (create a different history line to add features or try different things)
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+--  it allows to merge with hanges made on remote by others?
+
 
