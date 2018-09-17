@@ -18,4 +18,6 @@ What is the benefit of having a copy of the last known state of the remote store
 
 --  it allows to merge with hanges made on remote by others?
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
+-- it would need emails, or a chat, it could probably easier just to talk, but less easy to merge...
